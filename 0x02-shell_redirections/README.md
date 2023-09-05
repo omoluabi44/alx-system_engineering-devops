@@ -1,1 +1,0 @@
-this folders contain standard input and output redirection and filtering
