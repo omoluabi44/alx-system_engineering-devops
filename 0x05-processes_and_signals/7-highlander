@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Trap SIGTERM signal and execute the specified function
+trap 'echo "I am invincible!!!"' SIGTERM
+
+while true; do
+      echo "To infinity and beyond"
+          sleep 2
+done
