@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#answer to networking question
+netstat -p -l
