@@ -1,1 +1,3 @@
+#!/usr/bin/env bash
+#ping am
 ping -c 5 "$@"
