@@ -1,1 +1,1 @@
-ls -t.| head 
+ls -l -t -r | head -n 10 
