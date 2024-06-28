@@ -1,3 +1,4 @@
+# This manifest creates a file in /tmp with specific properties
 file {'/tmp/school':
   ensure  => 'file',
   mode    => '0744',
