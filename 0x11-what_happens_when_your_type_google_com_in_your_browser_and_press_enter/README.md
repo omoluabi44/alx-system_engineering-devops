@@ -1,0 +1,1 @@
+## what happen when you type www.google.com
